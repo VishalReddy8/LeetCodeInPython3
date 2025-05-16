@@ -14,4 +14,8 @@ while adding to dictionary keys are the num values and values are the i values
 target = (target - num) + num
 
 return the index values of (target - num) and num
+
+there are many more approaches that we can use 
+
+like two pointer and dict without enum 
 '''
