@@ -7,3 +7,9 @@ class Solution:
             s.add(i)
 
         return False
+
+
+'''
+Simple code that checks if the given element is in set already or not
+
+'''
